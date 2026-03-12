@@ -1,4 +1,3 @@
-```markdown
 # 🍏 macOS 开发者终极环境配置指南：Homebrew + pyenv + nvm
 
 本文档旨在为 macOS 用户提供一套**优雅、纯净且互不干扰**的开发环境搭建标准流程。
